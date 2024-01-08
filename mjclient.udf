@@ -1,0 +1,22 @@
+<UserData Version="3.10.0.0">
+  <Properties>
+    <Item Key="CocosRecentOperation">
+      <Value ctype="CocosRecentOperation">
+        <LastPublishType Value="Resource" />
+        <IsLastPublish Value="True" />
+        <LastRunType Value="Windows" />
+      </Value>
+    </Item>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="bg_guannan.csd" />
+          <FilePathData Path="bg_lianyungang.csd" />
+          <FilePathData Path="bg_siyang.csd" />
+          <FilePathData Path="bg_donghai.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="bg_donghai.csd" />
+      </Value>
+    </Item>
+  </Properties>
+</UserData>
