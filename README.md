@@ -1,7 +1,10 @@
 # 2023最新全国地方跨平台七星棋牌完整源码200+子游戏app+h5源码下载+微信小程序棋牌游戏
 
-
-[![全国地方跨平台棋牌完整源码 200多子游戏App+H5源码+微信小程序源码](https://res.cloudinary.com/marcomontalbano/image/upload/v1702912863/video_to_markdown/images/youtube--gk5pzBzlsKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=gk5pzBzlsKs "全国地方跨平台棋牌完整源码 200多子游戏App+H5源码+微信小程序源码")
+```
+大家都用的哪些厂商的服务器？支持镜像导入吧。
+我这边计划将部署好的服务器端处理下，直接将centos 镜像保存，这样以后客户购买后搭建，直接导入镜像即可。
+一般常见的镜像格式四种： RAW、VHD、QCOW2、VMDK 
+```
 
 # 简介
 
